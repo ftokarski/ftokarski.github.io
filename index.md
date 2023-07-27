@@ -1,6 +1,6 @@
 ## About me
 
-TEST tokarski (at) stanford [dot] edu. My CV is [here](https://github.com/ftokarski/ftokarski.github.io/blob/main/CV/FTCV.pdf). TEST
+TEST tokarski (at) stanford [dot] edu. My CV is [here](https://ftokarski.github.io/ftokarski.github.io/CV/FTCV.pdf). TEST
 
 ## Research
 
