@@ -1,7 +1,7 @@
 ## About me
 
-TEST tokarski (at) stanford [dot] edu.
-4
+TEST tokarski (at) stanford [dot] edu. My CV is [here](https://tomrutter42.github.io/CV/FTCV.pdf). TEST
+
 ## Research
 
 ### AAAAAAAAAAAA
