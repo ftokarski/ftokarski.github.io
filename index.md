@@ -1,6 +1,6 @@
 ## About me
 
-YYYYYYYYZ tokarski (at) stanford [dot] edu.
+YYYYYYYYZZZ tokarski (at) stanford [dot] edu.
 
 ## Research
 
