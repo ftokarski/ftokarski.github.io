@@ -1,13 +1,15 @@
 ## About me
 
-TEST tokarski (at) stanford [dot] edu. My CV is [here](https://ftokarski.github.io/CV/FTCV.pdf). TEST
+TEST tokarski (at) stanford [dot] edu.
+
+
+
+ My CV is [here](https://ftokarski.github.io/CV/FTCV.pdf).
 
 ## Research
 
-### AAAAAAAAAAAA
-with XXXXXXXXXX
-
-[paper](https://tomrutter42.github.io/folder/AAAAAAAA.pdf)
+### [A market-design response to the European energy crisis] (https://ftokarski.github.io/folder/Energy.pdf)
+with Scott Duke Kominers, Mohammad Akbarpour and Piotr Dworczak
 
 
 
