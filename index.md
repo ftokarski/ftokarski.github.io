@@ -8,9 +8,8 @@ TEST tokarski (at) stanford [dot] edu.
 
 ## Research
 
-### [A market-design response to the European energy crisis] (https://ftokarski.github.io/folder/Energy.pdf)
-with Scott Duke Kominers, Mohammad Akbarpour and Piotr Dworczak
-
+### A market-design response to the European energy crisis
+with Scott Duke Kominers, Mohammad Akbarpour and Piotr Dworczak. [paper](https://ftokarski.github.io/folder/Energy.pdf)
 
 
 
