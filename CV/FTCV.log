@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.6)  27 JUL 2023 20:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.6)  28 JUL 2023 14:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -313,7 +313,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `FTCV.out' has not changed.
-(rerunfilecheck)             Checksum: 2DF3DEEE044A9E2FBEC63E87CF46F6C6;874.
+(rerunfilecheck)             Checksum: 06D062FEE308ECC06364F0206BFA0605;757.
  ) 
 Here is how much of TeX's memory you used:
  10262 strings out of 478268
@@ -322,9 +322,9 @@ Here is how much of TeX's memory you used:
  28346 multiletter control sequences out of 15000+600000
  474851 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,11n,63p,341b,343s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 60i,11n,63p,336b,343s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on FTCV.pdf (1 page, 94224 bytes).
+Output written on FTCV.pdf (1 page, 93991 bytes).
 PDF statistics:
  71 PDF objects out of 1000 (max. 8388607)
  55 compressed objects within 1 object stream
