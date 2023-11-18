@@ -1,6 +1,6 @@
 ## About me
 
-I am a 2nd year PhD student in Economics at Stanford GSB. I am interested in mechanism design, strategic communication, and markets for information. You can reach me at tokarski (at) stanford [dot] edu. My CV is [here](https://ftokarski.github.io/CV/FTCV.pdf).
+I am a 2nd year PhD student in Economics at Stanford GSB. I am interested in microeconomic theory, in particular mechanism design and optimal taxation. You can reach me at tokarski (at) stanford [dot] edu. My CV is [here](https://ftokarski.github.io/CV/FTCV.pdf).
 
 ## Working papers
 
