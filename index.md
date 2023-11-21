@@ -4,6 +4,8 @@ I am a 2nd year PhD student in Economics at Stanford GSB. I am interested in mic
 
 ## Working papers
 
+### [Equitable screening](https://ftokarski.github.io/folder/FTequity.pdf)
+
 ### [Incentive separability](https://ftokarski.github.io/folder/Incentive-separability.pdf)
 with [Piotr Dworczak](https://sites.northwestern.edu/dworczak/), [Paweł Doligalski](https://pdoligalski.github.io/), Joanna Krysta.
 
