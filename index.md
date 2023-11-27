@@ -4,13 +4,13 @@ I am a 2nd year PhD student in Economics at Stanford GSB. I am interested in mic
 
 ## Working papers
 
-### [Equitable screening](https://ftokarski.github.io/folder/FTequity.pdf)
+### [Equitable screening](https://ftokarski.github.io/papers/FTequity.pdf)
 
-### [Incentive separability](https://ftokarski.github.io/folder/Incentive-separability.pdf)
+### [Incentive separability](https://ftokarski.github.io/papers/Incentive-separability.pdf)
 with [Piotr Dworczak](https://sites.northwestern.edu/dworczak/), [Paweł Doligalski](https://pdoligalski.github.io/), Joanna Krysta.
 
 
-### [A market-design response to the European energy crisis](https://ftokarski.github.io/folder/Energy.pdf)
+### [A market-design response to the European energy crisis](https://ftokarski.github.io/papers/Energy.pdf)
 with [Scott Duke Kominers](http://www.scottkom.com/), [Mohammad Akbarpour](http://web.stanford.edu/~mohamwad/) and [Piotr Dworczak](https://sites.northwestern.edu/dworczak/). 
 
 
