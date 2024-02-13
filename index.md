@@ -4,7 +4,7 @@ I am a 2nd year PhD student in Economics at Stanford GSB. I am interested in mic
 
 ## Working papers
 
-% ### [Equitable screening](https://ftokarski.github.io/papers/FTequity.pdf)
+### [Equitable screening](https://ftokarski.github.io/papers/FTequity.pdf)
 
 ### [Ironing allocations](https://ftokarski.github.io/papers/FTiron.pdf)
 
