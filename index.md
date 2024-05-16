@@ -9,10 +9,9 @@ I am a 2nd year PhD student in Economics at Stanford GSB. I am interested in mic
 ### [Ironing allocations](https://arxiv.org/abs/2402.11881)
 
 ### [Incentive separability](https://ftokarski.github.io/papers/Incentive-separability.pdf)
-with [Piotr Dworczak](https://sites.northwestern.edu/dworczak/), [Paweł Doligalski](https://pdoligalski.github.io/), Joanna Krysta.__
+with [Piotr Dworczak](https://sites.northwestern.edu/dworczak/), [Paweł Doligalski](https://pdoligalski.github.io/), Joanna Krysta.
+
 Accepted at _Journal of Political Economy: Microeconomics_.
-
-
 
 ### [A market-design response to the European energy crisis](https://ftokarski.github.io/papers/Energy.pdf)
 with [Scott Duke Kominers](http://www.scottkom.com/), [Mohammad Akbarpour](http://web.stanford.edu/~mohamwad/) and [Piotr Dworczak](https://sites.northwestern.edu/dworczak/). 
