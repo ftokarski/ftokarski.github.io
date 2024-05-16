@@ -9,7 +9,8 @@ I am a 2nd year PhD student in Economics at Stanford GSB. I am interested in mic
 ### [Ironing allocations](https://arxiv.org/abs/2402.11881)
 
 ### [Incentive separability](https://ftokarski.github.io/papers/Incentive-separability.pdf)
-with [Piotr Dworczak](https://sites.northwestern.edu/dworczak/), [Paweł Doligalski](https://pdoligalski.github.io/), Joanna Krysta. Accepted at _Journal of Political Economy: Microeconomics_.
+with [Piotr Dworczak](https://sites.northwestern.edu/dworczak/), [Paweł Doligalski](https://pdoligalski.github.io/), Joanna Krysta.__
+Accepted at _Journal of Political Economy: Microeconomics_.
 
 
 
