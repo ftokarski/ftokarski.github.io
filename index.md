@@ -12,7 +12,7 @@ Forthcoming at _Journal of Political Economy: Microeconomics_.
 
 ### [Ironing allocations](https://arxiv.org/abs/2402.11881)
 
-
+## Policy papers
 
 ### [A market-design response to the European energy crisis](https://ftokarski.github.io/papers/Energy.pdf)
 with [Scott Duke Kominers](http://www.scottkom.com/), [Mohammad Akbarpour](http://web.stanford.edu/~mohamwad/) and [Piotr Dworczak](https://sites.northwestern.edu/dworczak/). 
