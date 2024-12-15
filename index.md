@@ -2,11 +2,15 @@
 
 I am a 3rd year PhD student in Economics at Stanford GSB. I am interested in microeconomic theory, in particular mechanism design, multidimensional screening, and optimal taxation. You can reach me at tokarski (at) stanford [dot] edu. My CV is [here](https://ftokarski.github.io/CV/FTCV.pdf).
 
-## Working papers
+## Publications
 
 ### [Incentive separability](https://ftokarski.github.io/papers/Incentive-separability.pdf)
 with [Piotr Dworczak](https://sites.northwestern.edu/dworczak/), [Paweł Doligalski](https://pdoligalski.github.io/), Joanna Krysta.  
 Forthcoming at _Journal of Political Economy: Microeconomics_.
+
+## Working papers
+
+### [Pricing priorities in waitlists](https://ftokarski.github.io/papers/FTppw.pdf)
 
 ### [Equitable screening](https://arxiv.org/abs/2402.08781)
 
