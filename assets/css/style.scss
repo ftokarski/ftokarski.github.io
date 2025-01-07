@@ -21,29 +21,32 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p, ul, ol, table, pre, dl {
-  margin:0 0 5px;
-}
-
-h3 {
-  line-height:1.1;
-  margin:0 0 5px;
-}
-
-h1, h2 {
-  margin:0 0 20px;
+  margin:0 0 10px;
 }
 
 h1 {
+  line-height:1.1;
   font-size:28px;
   font-weight: 1000;
+  margin:0 0 20px;
 }
 
 h2 {
+  line-height:1.1;
   color:#393939;
   font-weight: 1000;
+  margin:0 0 20px;
 }
 
-h3, h4, h5, h6 {
+h3{
+  line-height:1.1;
+  color:#494949;
+  font-weight: 500;
+  margin:0 0 5px;
+}
+
+
+h4, h5, h6 {
   color:#494949;
   font-weight: 500;
 }
