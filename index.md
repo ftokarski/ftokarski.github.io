@@ -4,7 +4,7 @@ I am a 3rd year PhD student in Economics at Stanford GSB. I am interested in mic
 
 ## **Publications**
 
-### [Incentive separability](https://ftokarski.github.io/papers/Incentive-separability.pdf)
+### [Incentive separability](https://ftokarski.github.io/papers/Incentive-separability.pdf) 
 with [Piotr Dworczak](https://sites.northwestern.edu/dworczak/), [Paweł Doligalski](https://pdoligalski.github.io/), Joanna Krysta.  
 Forthcoming at _Journal of Political Economy: Microeconomics_.
 
