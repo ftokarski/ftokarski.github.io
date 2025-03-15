@@ -1,6 +1,6 @@
 ## About me
 
-I am a 3rd year PhD student in Economics at Stanford GSB. I am interested in microeconomic theory, in particular mechanism design, multidimensional screening, and optimal taxation. You can reach me at tokarski (at) stanford [dot] edu. My CV is [here](https://ftokarski.github.io/CV/FTCV.pdf).
+I am a 3rd year PhD student in Economics at Stanford GSB. I am interested in mechanism design, in particular multidimensional screening and redesigning social programs. I have recently been working on mechanisms allocating goods through waitlists. You can reach me at tokarski (at) stanford [dot] edu. My CV is [here](https://ftokarski.github.io/CV/FTCV.pdf).
 
 ## Publications
 
