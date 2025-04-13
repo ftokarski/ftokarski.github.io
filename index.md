@@ -10,10 +10,12 @@ Forthcoming at _Journal of Political Economy: Microeconomics_.
 
 ## Working papers
 
-### [Pricing priorities in waitlists](https://ftokarski.github.io/papers/FTppw.pdf)
-Presented at _ASSA 2025 Annual Meeting_. Slides available [here](https://ftokarski.github.io/papers/wwpslides.pdf).
+### [Allocating heterogeneous goods through wait times and prices](https://ftokarski.github.io/papers/FThgwp.pdf)
+Presented at _ASSA 2025 Annual Meeting_. Slides available [here](https://ftokarski.github.io/papers/FThgwp_slides.pdf).
 
 ### [Equitable screening](https://arxiv.org/abs/2402.08781)
+
+## Dormant working papers
 
 ### [Ironing allocations](https://arxiv.org/abs/2402.11881)
 
