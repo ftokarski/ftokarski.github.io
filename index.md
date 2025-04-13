@@ -15,8 +15,6 @@ Presented at _ASSA 2025 Annual Meeting_. Slides available [here](https://ftokars
 
 ### [Equitable screening](https://arxiv.org/abs/2402.08781)
 
-## Dormant working papers
-
 ### [Ironing allocations](https://arxiv.org/abs/2402.11881)
 
 ## Policy papers
