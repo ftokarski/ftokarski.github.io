@@ -21,8 +21,7 @@ Accepted for presentation at _EC 2025_.
 ### [A market-design response to the European energy crisis](https://ftokarski.github.io/papers/Energy.pdf)
 with [Scott Duke Kominers](http://www.scottkom.com/), [Mohammad Akbarpour](http://web.stanford.edu/~mohamwad/) and [Piotr Dworczak](https://sites.northwestern.edu/dworczak/). 
 
-## Dormant working papers
-
+## Dormant projects
 
 ### [Ironing allocations](https://arxiv.org/abs/2402.11881)
 
