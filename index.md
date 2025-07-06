@@ -14,7 +14,7 @@ Forthcoming at _Journal of Political Economy: Microeconomics_.
 Presented at _ASSA 2025 Annual Meeting_. Slides available [here](https://ftokarski.github.io/papers/FThgwp_slides.pdf).
 
 ### [Equitable screening](https://arxiv.org/abs/2402.08781)
-Accepted for presentation at _EC 2025_.
+Accepted for presentation at _EC 2025_. Slides available [here](https://ftokarski.github.io/papers/Equity_slides.pdf).
 
 ## Policy papers
 
