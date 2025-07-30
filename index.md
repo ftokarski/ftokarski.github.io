@@ -10,8 +10,8 @@ _Journal of Political Economy: Microeconomics_.
 
 ## Working papers
 
-### [Allocating heterogeneous goods through wait times and prices](https://ftokarski.github.io/papers/FThgwp.pdf)
-New draft coming soon. Presented at _ASSA 2025 Annual Meeting_. Slides available [here](https://ftokarski.github.io/papers/FThgwp_slides.pdf).
+### [Screening with damages and ordeals](https://ftokarski.github.io/papers/FThgwp.pdf)
+Presented at _ASSA 2025 Annual Meeting_. Slides available [here](https://ftokarski.github.io/papers/FT_DO_slides.pdf).
 
 ### [Equitable screening](https://arxiv.org/abs/2402.08781)
 Presented at _EC 2025_. Slides available [here](https://ftokarski.github.io/papers/Equity_slides.pdf).
