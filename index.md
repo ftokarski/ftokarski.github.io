@@ -10,7 +10,7 @@ _Journal of Political Economy: Microeconomics_.
 
 ## Working papers
 
-### [Screening with damages and ordeals](https://ftokarski.github.io/papers/FT_DO.pdf)
+### [Screening with damages and ordeals](https://arxiv.org/abs/2508.04456)
 Presented at _ASSA 2025 Annual Meeting_. Slides available [here](https://ftokarski.github.io/papers/FT_DO_slides.pdf).
 
 ### [Equitable screening](https://arxiv.org/abs/2402.08781)
