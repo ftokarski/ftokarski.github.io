@@ -16,14 +16,13 @@ Presented at _ASSA 2025 Annual Meeting_. Slides available [here](https://ftokars
 ### [Equitable screening](https://arxiv.org/abs/2402.08781)
 Presented at _EC 2025_. Slides available [here](https://ftokarski.github.io/papers/Equity_slides.pdf).
 
-## Policy papers
+
+## Short notes
 
 ### [A market-design response to the European energy crisis](https://ftokarski.github.io/papers/Energy.pdf)
 with [Scott Duke Kominers](http://www.scottkom.com/), [Mohammad Akbarpour](http://web.stanford.edu/~mohamwad/) and [Piotr Dworczak](https://sites.northwestern.edu/dworczak/). 
 
-## Short notes
-
-### [Ironing allocations](https://arxiv.org/abs/2402.11881)
+### [Ironing without concavification](https://arxiv.org/abs/2402.11881)
 
 
 
