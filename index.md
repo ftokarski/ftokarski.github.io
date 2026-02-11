@@ -12,10 +12,10 @@ _Journal of Political Economy: Microeconomics_.
 
 ### [Targeting without transfers](https://ftokarski.github.io/papers/TWT_FT.pdf)
 
-### [Screening with damages and ordeals](https://arxiv.org/abs/2508.04456)
+### [Screening with damages and ordeals](https://ftokarski.github.io/papers/FT_DO.pdf)
 Presented at _ASSA 2025 Annual Meeting_. Slides available [here](https://ftokarski.github.io/papers/FT_DO_slides.pdf).
 
-### [Equitable screening](https://arxiv.org/abs/2402.08781)
+### [Equitable screening](https://ftokarski.github.io/papers/FTequity.pdf)
 Presented at _EC 2025_. Slides available [here](https://ftokarski.github.io/papers/Equity_slides.pdf).
 
 
