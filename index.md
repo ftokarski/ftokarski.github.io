@@ -8,7 +8,7 @@ I am a 4th year PhD student in Economics at Stanford GSB. I am interested in mec
 with [Piotr Dworczak](https://sites.northwestern.edu/dworczak/), [Paweł Doligalski](https://pdoligalski.github.io/), Joanna Krysta.  
 _Journal of Political Economy: Microeconomics_.
 
-## Working papers AAAAAA
+## Working papers
 
 ### [Knowledge transfer and strategic similarity](https://ftokarski.github.io/papers/JFFT_Strategic_similarity.pdf)
 with [Joey Feffer](https://www.gsb.stanford.edu/programs/phd/academic-experience/students/joey-feffer).
