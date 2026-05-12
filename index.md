@@ -10,7 +10,7 @@ _Journal of Political Economy: Microeconomics_.
 
 ## Working papers
 
-### [Knowledge transfer and strategic similarity](https://ftokarski.github.io/papers/JFFT_Strategic_similarity.pdf)
+### [Strategically Analogous Mechanisms](https://ftokarski.github.io/papers/JFFT_SAM.pdf)
 with [Joey Feffer](https://www.gsb.stanford.edu/programs/phd/academic-experience/students/joey-feffer).
 
 ### [Targeting without transfers](https://ftokarski.github.io/papers/TWT_FT.pdf)
