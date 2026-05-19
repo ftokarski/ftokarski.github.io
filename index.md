@@ -12,11 +12,13 @@ _Journal of Political Economy: Microeconomics_.
 
 ### [Strategically Analogous Mechanisms](https://ftokarski.github.io/papers/JFFT_SAM.pdf)
 with [Joey Feffer](https://www.gsb.stanford.edu/programs/phd/academic-experience/students/joey-feffer).
+Accepted for presentation at _EC 2026_. 
 
 ### [Targeting without transfers](https://ftokarski.github.io/papers/TWT_FT.pdf)
+Accepted for presentation at _EC 2026_. 
 
 ### [Screening with damages and ordeals](https://ftokarski.github.io/papers/FT_DO.pdf)
-Presented at _ASSA 2025 Annual Meeting_. Slides available [here](https://ftokarski.github.io/papers/FT_DO_slides.pdf).
+Accepted for presentation at _EC 2026_. 
 
 ### [Equitable screening](https://ftokarski.github.io/papers/FTequity.pdf)
 Presented at _EC 2025_. Slides available [here](https://ftokarski.github.io/papers/Equity_slides.pdf).
