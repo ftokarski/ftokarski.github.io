@@ -10,7 +10,7 @@ _Journal of Political Economy: Microeconomics_.
 
 ## Working papers
 
-### [Strategically Analogous Mechanisms](https://ftokarski.github.io/papers/JFFT_SAM.pdf)
+### [Strategically analogous mechanisms](https://ftokarski.github.io/papers/JFFT_SAM.pdf)
 with [Joey Feffer](https://www.gsb.stanford.edu/programs/phd/academic-experience/students/joey-feffer).
 Accepted for presentation at _EC 2026_. 
 
@@ -22,7 +22,6 @@ Accepted for presentation at _EC 2026_.
 
 ### [Equitable screening](https://ftokarski.github.io/papers/FTequity.pdf)
 Presented at _EC 2025_. Slides available [here](https://ftokarski.github.io/papers/Equity_slides.pdf).
-
 
 ## Short notes
 
