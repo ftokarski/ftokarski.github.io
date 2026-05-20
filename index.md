@@ -11,7 +11,7 @@ _Journal of Political Economy: Microeconomics_.
 ## Working papers
 
 ### [Strategically analogous mechanisms](https://ftokarski.github.io/papers/JFFT_SAM.pdf)
-with [Joey Feffer](https://www.gsb.stanford.edu/programs/phd/academic-experience/students/joey-feffer).
+with [Joey Feffer](https://www.gsb.stanford.edu/programs/phd/academic-experience/students/joey-feffer).  
 Accepted for presentation at _EC 2026_. 
 
 ### [Targeting without transfers](https://ftokarski.github.io/papers/TWT_FT.pdf)
