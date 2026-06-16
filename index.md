@@ -28,7 +28,7 @@ Presented at _EC 2025_. Slides available [here](https://ftokarski.github.io/pape
 ### [A market-design response to the European energy crisis](https://ftokarski.github.io/papers/Energy.pdf)
 with [Scott Duke Kominers](http://www.scottkom.com/), [Mohammad Akbarpour](http://web.stanford.edu/~mohamwad/) and [Piotr Dworczak](https://sites.northwestern.edu/dworczak/). 
 
-### [Ironing without concavification](https://arxiv.org/abs/2402.11881)
+### [Ironing without concavification](https://ftokarski.github.io/papers/FT_iron.pdf)
 
 
 
