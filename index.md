@@ -17,7 +17,7 @@ Accepted for presentation at _EC 2026_, _SITE 2026_.
 ### [Targeting without transfers](https://ftokarski.github.io/papers/TWT_FT.pdf)
 Accepted for presentation at _EC 2026_. 
 
-### [Screening with tolls and damages](https://ftokarski.github.io/papers/FT_TD.pdf)
+### [Screening with tolls and damages](https://ftokarski.github.io/papers/FT_DT.pdf)
 Accepted for presentation at _EC 2026_. 
 
 ### [Equitable screening](https://ftokarski.github.io/papers/FTequity.pdf)
